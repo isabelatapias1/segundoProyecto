@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #f6f6f6;
+}
+
+.bg-black {
+  background: #000;
+  color: #fff;
+  padding: 12px 20px;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+
+.bg-black {
+    background: #000;
+    color: #fff;
+    padding: 12px 20px;
+    font-size: 13px;
+    text-transform: uppercase;
+  }
+
+.text-main {
+  color: #a8894d;
+}
+
+.btn-main,
+.bg-main {
+  background: #a8894d;
+  color: #fff;
+}
+
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.main_button{
+background-color:#a8894d  ;
+width: 100%;
+padding: 10px;
+font-size: 17px;
+color:#000;
+text-align: center;
+margin-top: 10px;
+}
+
